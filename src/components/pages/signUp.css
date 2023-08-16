@@ -1,0 +1,22 @@
+form {
+    text-align: center;
+    margin: 3rem;
+}
+
+.spx {
+    height: 30px;
+    width: 25%;
+    font-size: 18px;
+}
+
+.first {
+    margin-bottom: 10px;
+}
+
+.submitx {
+    height: 30px;
+    width: 15%;
+    margin: 10px;
+    font-size: 20px;
+    cursor: pointer;
+}
